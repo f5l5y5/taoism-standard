@@ -1,0 +1,21 @@
+{
+	"name": "taoism-standard",
+	"version": "1.0.0",
+	"private": true,
+	"description": "front-end standard",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"taoism",
+		"front-end standard"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/f5l5y5/sunrise-utils-monorepo",
+		"directory": "packages"
+	},
+	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo#readme",
+	"author": "yinuo",
+	"license": "MIT"
+}
