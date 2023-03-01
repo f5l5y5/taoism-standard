@@ -1,0 +1,25 @@
+{
+	"name": "@taoismcn/prettier-config",
+	"version": "0.0.0",
+	"description": "prettier config",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"prettier-config"
+	],
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/f5l5y5/taoism-standard"
+	},
+	"author": "yinuo",
+	"license": "MIT",
+	"dependencies": {
+		"prettier": "^2.8.4"
+	}
+}
