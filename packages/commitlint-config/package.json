@@ -1,12 +1,26 @@
 {
-  "name": "commitlint-config",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"name": "@taoismcn/commitlint-config",
+	"version": "0.0.0",
+	"description": "commitlint-config",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"commitlint-config"
+	],
+	"publishConfig": {
+		"access": "public",
+		"registry": "https://registry.npmjs.org/"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/f5l5y5/taoism-standard/tree/main/packages/commitlint-config"
+	},
+	"author": "yinuo",
+	"license": "MIT",
+	"dependencies": {
+		"@commitlint/cli": "^17.4.4",
+		"@commitlint/config-conventional": "^17.4.4"
+	}
 }
