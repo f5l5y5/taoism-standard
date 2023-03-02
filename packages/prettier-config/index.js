@@ -1,6 +1,6 @@
 module.exports = {
 	// 每行最多字符数，默认80
-	printWidth: 130,
+	printWidth: 120,
 	// 用制表符(tab)不是空格缩进行
 	// 如果为true，则取编辑器tabSize值
 	// 安装editorconfig编辑器插件并配置文件，则取 editorConfig 文件中设置的值

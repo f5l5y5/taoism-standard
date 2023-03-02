@@ -16,5 +16,8 @@
 	},
 	"homepage": "https://github.com/f5l5y5/sunrise-utils-monorepo#readme",
 	"author": "yinuo",
-	"license": "MIT"
+	"license": "MIT",
+	"devDependencies": {
+		"@changesets/cli": "^2.26.0"
+	}
 }
