@@ -4,6 +4,12 @@
 
 ### Patch Changes
 
+- update package
+
+## 0.0.3
+
+### Patch Changes
+
 - delete stylelint-config-prettier
 
 ## 0.0.2
