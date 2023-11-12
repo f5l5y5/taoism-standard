@@ -13,6 +13,6 @@ export default defineConfig({
 
 		sidebar: [],
 
-		socialLinks: [{ icon: 'github', link: 'https://github.com/f5l5y5/sunrise-utils-monorepo' }]
+		socialLinks: [{ icon: 'github', link: 'https://github.com/f5l5y5/taoism-standard' }]
 	}
 })
